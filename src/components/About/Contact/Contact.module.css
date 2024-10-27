@@ -1,0 +1,16 @@
+.contact {
+    min-width: 300px;
+    justify-content: end;
+    border: 5px;
+    border-radius: 30px;
+    background-color: var(--accent-light);
+}
+
+.container {
+    padding: 10px;
+}
+
+.dark {
+    background-color: var(--accent-greyer);
+    color: black;
+}

@@ -1,0 +1,52 @@
+{
+    "skills": {
+        "Languages": {
+            "JavaScript": {
+                "image": "/img/lang-img/JavaScript Logo.svg",
+                "details": "/lang-details/js.md"
+            },
+            "TypeScript": {
+                "image": "/img/lang-img/TypeScript Logo.svg",
+                "details": "/lang-details/ts.md"
+            },
+            "Python": {
+                "image": "/img/lang-img/Python Logo.svg",
+                "details": "/lang-details/python.md"
+            },
+            "Dart": {
+                "image": "/img/lang-img/Dart Logo.svg",
+                "details": "/lang-details/dart.md"
+            }
+        },
+        "Frontend Tools": {
+            "HTML": {
+                "image": "/img/lang-img/HTML Logo.svg",
+                "details": "/lang-details/html.md"
+            },
+            "CSS": {
+                "image": "/img/lang-img/CSS Logo.svg",
+                "details": "/lang-details/css.md"
+            },
+            "React": {
+                "image": "/img/lang-img/React Logo.svg",
+                "details": "/lang-details/react.md"
+            }
+        },
+        "Backend Tools": {
+            "Git": {
+                "image": "/img/lang-img/Git Logo.svg",
+                "details": "/lang-details/git.md"
+            },
+            "Node JS": {
+                "image": "/img/lang-img/NodeJS Logo.svg",
+                "details": "/lang-details/nodejs.md"
+            }
+        },
+        "Databases": {
+            "MongoDB": {
+                "image": "/img/lang-img/MongoDB Logo.svg",
+                "details": "/lang-details/mongo.md"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+.container {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}

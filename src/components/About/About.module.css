@@ -1,0 +1,6 @@
+.about {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+}

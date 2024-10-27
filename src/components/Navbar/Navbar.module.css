@@ -1,0 +1,70 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 6px;
+    width: 100%;
+    background-color: var(--accent-light);
+}
+
+.navbarLogo {
+    color: var(--primary-color);
+    font-size: 1.25rem;
+    padding: 6px;
+}
+
+.navbarDark {
+    background-color: var(--dark-nav);
+    color: white;
+}
+
+.buttonContainer {
+    margin-left: 0 auto;
+    padding: 6px;
+}
+
+.buttonList {
+    list-style-type: none;
+    vertical-align: middle;
+}
+
+.buttonItem {
+    display: inline;
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+}
+
+.buttonItem:hover {
+    color: var(--primary-color);
+}
+
+.links {
+    padding: 6px;
+}
+
+.toggleButton {
+    border: 3px;
+    font-weight: 800;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: var(--primary-color);
+    padding: 10px;
+    color: var(--primary-color);
+}
+
+.toggleButtonLight {
+    fill: #eee;
+}
+
+.toggleButtonDark {
+    fill: var(--dark-nav);
+}
+
+.toggleButton:hover {
+    fill-opacity: 0.1;
+}
+
+.sticky {
+    position: fixed;
+}

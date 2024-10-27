@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+  --bg: #fff;
+  --accent-light: #f0f0f0;
+  --accent-greyer: #e0e0e0;
+  --primary-color: #35cfeb;
+  --dark-bg: #333;
+  --dark-nav: #222;
+  --secondary-color: #0963b8;
+
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  border: 0;
+  font-family: 'Roboto';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+  font-family: 'Quicksand';
+}
+
+.dark {
+  background: var(--dark-bg);
+  color: #eee;
+}
+
