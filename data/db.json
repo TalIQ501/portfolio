@@ -2,50 +2,50 @@
     "skills": {
         "Languages": {
             "JavaScript": {
-                "image": "/res/img/lang-img/JavaScript Logo.svg",
-                "details": "/res/lang-details/js.md"
+                "image": "portfolio/img/lang-img/JavaScript Logo.svg",
+                "details": "/portfolio/lang-details/js.md"
             },
             "TypeScript": {
-                "image": "/res/img/lang-img/TypeScript Logo.svg",
-                "details": "/res/lang-details/ts.md"
+                "image": "portfolio/img/lang-img/TypeScript Logo.svg",
+                "details": "portfolio/lang-details/ts.md"
             },
             "Python": {
-                "image": "/res/img/lang-img/Python Logo.svg",
-                "details": "/res/lang-details/python.md"
+                "image": "portfolio/img/lang-img/Python Logo.svg",
+                "details": "portfolio/lang-details/python.md"
             },
             "Dart": {
-                "image": "/res/img/lang-img/Dart Logo.svg",
-                "details": "/res/lang-details/dart.md"
+                "image": "portfolio/img/lang-img/Dart Logo.svg",
+                "details": "portfolio/lang-details/dart.md"
             }
         },
         "Frontend Tools": {
             "HTML": {
-                "image": "/res/img/lang-img/HTML Logo.svg",
-                "details": "/res/lang-details/html.md"
+                "image": "portfolio/img/lang-img/HTML Logo.svg",
+                "details": "portfolio/lang-details/html.md"
             },
             "CSS": {
-                "image": "/res/img/lang-img/CSS Logo.svg",
-                "details": "/res/lang-details/css.md"
+                "image": "portfolio/img/lang-img/CSS Logo.svg",
+                "details": "portfolio/lang-details/css.md"
             },
             "React": {
-                "image": "/res/img/lang-img/React Logo.svg",
-                "details": "/res/lang-details/react.md"
+                "image": "portfolio/img/lang-img/React Logo.svg",
+                "details": "portfolio/lang-details/react.md"
             }
         },
         "Backend Tools": {
             "Git": {
-                "image": "/res/img/lang-img/Git Logo.svg",
-                "details": "/res/lang-details/git.md"
+                "image": "portfolio/img/lang-img/Git Logo.svg",
+                "details": "/ortfolio/lang-details/git.md"
             },
             "Node JS": {
-                "image": "/res/img/lang-img/CSS Logo.svg",
-                "details": "/res/lang-details/nodejs.md"
+                "image": "portfolio/img/lang-img/CSS Logo.svg",
+                "details": "portfolio/lang-details/nodejs.md"
             }
         },
         "Databases": {
             "MongoDB": {
-                "image": "/res/img/lang-img/MongoDB Logo.svg",
-                "details": "/res/lang-details/mongo.md"
+                "image": "portfolio/img/lang-img/MongoDB Logo.svg",
+                "details": "portfolio/lang-details/mongo.md"
             }
         }
     }
